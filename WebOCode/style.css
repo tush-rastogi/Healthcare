@@ -1,0 +1,129 @@
+html {
+    scroll-behavior: smooth;
+  }
+.blockquote{
+  
+      text-align: center;
+
+}
+.quote{
+    font-size:20px ;
+}
+.cards{
+    position: relative;
+    top:45px;
+    
+}
+.logos{
+    position: relative;
+    top:80px;
+}
+.accordion{
+    
+    position:relative;
+    top:100px;
+}
+#navbar-example2{
+    position: relative;
+    top:100px;
+}
+.scrollspy-example{
+    position: relative;
+    top:30px;
+   
+}
+.bottom{
+   
+    position: relative;
+    top:80px;
+  /* opacity: 0.9; */
+}
+
+.review{
+    position:relative;
+    top:15px;
+    text-align: center;
+}
+
+.social{
+     
+      margin-top:70px;
+      letter-spacing: 45px;
+    }
+
+
+
+.items,.list{
+       margin-top:45px;
+       color:black;
+       line-height: 34px;
+       font-weight: lighter;
+     
+}
+.bottom{
+    border-top: 8px solid slateblue ;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-bottom: 100px;
+}
+.bottom ul li{
+     list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
+a:hover{
+
+    color:green;
+}
+
+.details{
+    
+     text-align: center;
+}
+
+.card:hover{
+     box-shadow: 0px 6px 0px 0px black;
+     
+}
+
+#location,#contact{
+     margin-top:100px;
+     margin-bottom: 20px;
+     display: none;
+     justify-content: center;
+    /* visibility:hidden; */
+    align-items: center;
+ }
+.card-body{
+    background: rgba(67, 86, 139, 0.836);
+    color:white;
+    
+}
+cite{
+    color:black;
+}
+
+.card h5{
+  color:black;
+
+  font-family:  Arial, Helvetica, sans-serif;
+
+  letter-spacing: 1px;
+}
+
+ .accordion-item h5{
+
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+.accordion-item:hover{
+     
+    background: black;
+    color:white;
+
+}
